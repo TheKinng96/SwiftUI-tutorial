@@ -44,6 +44,7 @@
 		B287F5882811812D00E19064 /* PageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B287F5872811812D00E19064 /* PageViewController.swift */; };
 		B287F58B2811837900E19064 /* FeatureCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = B287F58A2811837900E19064 /* FeatureCard.swift */; };
 		B287F58D2811877200E19064 /* PageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B287F58C2811877200E19064 /* PageView.swift */; };
+		B2B5754D28126B2D0042F95B /* PageControl.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2B5754C28126B2D0042F95B /* PageControl.swift */; };
 		B2D589502809A74A00295905 /* FavoriteButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2D5894F2809A74A00295905 /* FavoriteButton.swift */; };
 /* End PBXBuildFile section */
 
@@ -105,6 +106,7 @@
 		B287F5872811812D00E19064 /* PageViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PageViewController.swift; sourceTree = "<group>"; };
 		B287F58A2811837900E19064 /* FeatureCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeatureCard.swift; sourceTree = "<group>"; };
 		B287F58C2811877200E19064 /* PageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PageView.swift; sourceTree = "<group>"; };
+		B2B5754C28126B2D0042F95B /* PageControl.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PageControl.swift; sourceTree = "<group>"; };
 		B2D5894F2809A74A00295905 /* FavoriteButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FavoriteButton.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -276,6 +278,7 @@
 				B287F5872811812D00E19064 /* PageViewController.swift */,
 				B287F58A2811837900E19064 /* FeatureCard.swift */,
 				B287F58C2811877200E19064 /* PageView.swift */,
+				B2B5754C28126B2D0042F95B /* PageControl.swift */,
 			);
 			path = PageView;
 			sourceTree = "<group>";
@@ -442,6 +445,7 @@
 				B2D589502809A74A00295905 /* FavoriteButton.swift in Sources */,
 				B254ED84280B93C800A71771 /* CategoryItem.swift in Sources */,
 				B232DEE1280AF11500CF0432 /* CategoryHome.swift in Sources */,
+				B2B5754D28126B2D0042F95B /* PageControl.swift in Sources */,
 				B232DED4280A5AA500CF0432 /* Hike.swift in Sources */,
 				B21397AF28084A8C0084CDA7 /* CircleImageView.swift in Sources */,
 				B26895B9280BE7960023F31A /* Badge.swift in Sources */,

@@ -12,7 +12,12 @@ struct PageView<Page: View>: View {
   @State private var currentPage = 1
   
   var body: some View {
-    PageViewController(pages: pages, currentPage: $currentPage)
+    ZStack(alignment: .bottomTrailing) {
+      PageViewController(pages: pages, currentPage: $currentPage)
+      PageControl(numberOfPages: pages.count, currentPage: $currentPage)
+        .frame(width: CGFloat(pages.count * 18))
+        .padding(.trailing)
+    }
   }
 }
 
