@@ -84,6 +84,7 @@
 		B2FDE27D2815179A0083A449 /* LandmarkList.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2FDE27B2815171B0083A449 /* LandmarkList.swift */; };
 		B2FDE27F28151C6B0083A449 /* LandmarkCommands.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2FDE27E28151C6B0083A449 /* LandmarkCommands.swift */; };
 		B2FDE28028151C6B0083A449 /* LandmarkCommands.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2FDE27E28151C6B0083A449 /* LandmarkCommands.swift */; };
+		B2FDE28228152B2E0083A449 /* LandmarkSettings.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2FDE28128152B2E0083A449 /* LandmarkSettings.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -218,6 +219,7 @@
 		B2FDE279281510F60083A449 /* LandmarkDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarkDetail.swift; sourceTree = "<group>"; };
 		B2FDE27B2815171B0083A449 /* LandmarkList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarkList.swift; sourceTree = "<group>"; };
 		B2FDE27E28151C6B0083A449 /* LandmarkCommands.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarkCommands.swift; sourceTree = "<group>"; };
+		B2FDE28128152B2E0083A449 /* LandmarkSettings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarkSettings.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -472,6 +474,7 @@
 				B2FDE26528150F730083A449 /* Preview Content */,
 				B2FDE279281510F60083A449 /* LandmarkDetail.swift */,
 				B2FDE27E28151C6B0083A449 /* LandmarkCommands.swift */,
+				B2FDE28128152B2E0083A449 /* LandmarkSettings.swift */,
 			);
 			path = MacLandmarks;
 			sourceTree = "<group>";
@@ -864,6 +867,7 @@
 			files = (
 				B2FDE2742815102F0083A449 /* tutorialApp.swift in Sources */,
 				B2FDE2782815102F0083A449 /* Landmark.swift in Sources */,
+				B2FDE28228152B2E0083A449 /* LandmarkSettings.swift in Sources */,
 				B2FDE2762815102F0083A449 /* CircleImageView.swift in Sources */,
 				B2FDE26D2815102F0083A449 /* Hike.swift in Sources */,
 				B2FDE28028151C6B0083A449 /* LandmarkCommands.swift in Sources */,
